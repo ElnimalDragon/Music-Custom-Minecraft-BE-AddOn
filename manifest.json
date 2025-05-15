@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Musica Personalizada Template.",
-        "name": "C148 Original Music Pack",
+        "description": "Plantilla de musica personalizada proporcionada por Elnimal Dragón en Youtube. Este es un archivo personalizable para que puedas colocar tu propia musica del juego.",
+        "name": "Plantilla Musica Personalizada - By Elnimal Dragón",
         "uuid": "34340f8c-85c4-4142-82ed-ab812d3da921",
         "version": [1, 0, 0],
         "min_engine_version": [ 1, 20, 80 ]
