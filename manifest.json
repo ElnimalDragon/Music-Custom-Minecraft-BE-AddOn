@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Plantilla de musica personalizada proporcionada por Elnimal Dragón en Youtube. Este es un archivo personalizable para que puedas colocar tu propia musica del juego.",
-        "name": "Plantilla Musica Personalizada - By Elnimal Dragón",
+        "description": "Plantilla de música personalizada proporcionada por Elnimal Dragón en Youtube. Este es un archivo personalizable para que puedas colocar tu propia música del juego.",
+        "name": "Música Personalizada - By Elnimal Dragón",
         "uuid": "34340f8c-85c4-4142-82ed-ab812d3da921",
-        "version": [1, 0, 0],
+        "version": [1, 0, 1],
         "min_engine_version": [ 1, 20, 80 ]
     },
     "modules": [
         {
-            "description": "C418 Original Music Pack - V 1.21.100",
+            "description": "música Personalizada - By Elnimal Dragón",
             "type": "resources",
             "uuid": "374b3745-908e-4862-b7c6-08cfc50b821f",
-            "version": [0, 0, 1]
+            "version": [1, 0, 1]
         }
     ]
 }
